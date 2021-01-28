@@ -31,7 +31,7 @@
     <ProjectGuid>{3CB90781-E457-4F0D-8315-42A700C58B91}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
     <RootNamespace>XrRenderR3</RootNamespace>
-    <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+    <WindowsTargetPlatformVersion>10.0.19041.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">

@@ -38,7 +38,7 @@
     <ProjectGuid>{200ACCB3-758B-4118-A10A-32EFF361AE64}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
     <RootNamespace>OpenAutomate</RootNamespace>
-    <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+    <WindowsTargetPlatformVersion>10.0.19041.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">

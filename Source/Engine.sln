@@ -813,7 +813,6 @@ Global
 		{BBE4A2FC-4EA8-4B3A-842B-5433D518E914}.Development|x86.ActiveCfg = Development|Win32
 		{BBE4A2FC-4EA8-4B3A-842B-5433D518E914}.Development|x86.Build.0 = Development|Win32
 		{BBE4A2FC-4EA8-4B3A-842B-5433D518E914}.Release|x64.ActiveCfg = Release|x64
-		{BBE4A2FC-4EA8-4B3A-842B-5433D518E914}.Release|x64.Build.0 = Release|x64
 		{BBE4A2FC-4EA8-4B3A-842B-5433D518E914}.Release|x86.ActiveCfg = Release|Win32
 		{BBE4A2FC-4EA8-4B3A-842B-5433D518E914}.Release|x86.Build.0 = Release|Win32
 		{FE8DE367-ED9E-4C95-ABFE-11393AE55DF2}.Debug|x64.ActiveCfg = Debug|x64

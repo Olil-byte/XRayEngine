@@ -90,7 +90,7 @@
     <ProjectGuid>{FB040F9F-8344-43DA-A4D6-1C8A9D5DBC59}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
     <RootNamespace>XrETools</RootNamespace>
-    <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+    <WindowsTargetPlatformVersion>10.0.19041.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">

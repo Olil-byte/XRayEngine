@@ -69,7 +69,7 @@
     <ProjectGuid>{C50A948D-9175-4388-AE07-0CDAB7FB69C8}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
     <RootNamespace>XrParticles</RootNamespace>
-    <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+    <WindowsTargetPlatformVersion>10.0.19041.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">

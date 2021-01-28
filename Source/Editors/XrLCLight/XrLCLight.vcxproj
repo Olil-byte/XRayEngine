@@ -31,7 +31,7 @@
     <ProjectGuid>{A81B25A8-D576-4B25-AC1E-1E6390832395}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
     <RootNamespace>XrLCLight</RootNamespace>
-    <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+    <WindowsTargetPlatformVersion>10.0.19041.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">

@@ -31,7 +31,7 @@
     <ProjectGuid>{57601B62-902A-4EC8-BCC7-B6A2E30B0676}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
     <RootNamespace>XrSound</RootNamespace>
-    <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+    <WindowsTargetPlatformVersion>10.0.19041.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">

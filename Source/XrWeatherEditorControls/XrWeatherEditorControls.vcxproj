@@ -62,7 +62,7 @@
     <ProjectGuid>{A170D052-A69E-48B4-A5A6-1E0EBACDE726}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
     <RootNamespace>XrWeatherEditorControls</RootNamespace>
-    <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+    <WindowsTargetPlatformVersion>10.0.19041.0</WindowsTargetPlatformVersion>
     <TargetFrameworkVersion>v4.6</TargetFrameworkVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />

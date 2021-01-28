@@ -103,7 +103,7 @@
     <ProjectGuid>{AC3D4F35-0E39-47F7-AEB7-552811A90A07}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
     <RootNamespace>Vorbis</RootNamespace>
-    <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+    <WindowsTargetPlatformVersion>10.0.19041.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">

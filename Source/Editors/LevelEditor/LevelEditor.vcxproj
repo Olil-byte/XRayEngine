@@ -298,7 +298,7 @@
     <ProjectGuid>{7E13BFCC-55B0-4715-8BBB-84A143CCE84B}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
     <RootNamespace>LevelEditor</RootNamespace>
-    <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+    <WindowsTargetPlatformVersion>10.0.19041.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
